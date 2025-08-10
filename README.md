@@ -40,4 +40,3 @@ A machine learning web application for predicting heart disease risk using patie
 - `Data/` - Dataset and processed data files
 - `Models/` - Trained ML models
 - `requirements.txt` - Python dependencies
-- `.streamlit/config.toml` - Streamlit configuration
