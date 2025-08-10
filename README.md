@@ -33,11 +33,7 @@ A machine learning web application for predicting heart disease risk using patie
 - **ML Libraries**: Scikit-learn, Pandas
 - **Models**: Trained on heart disease dataset
 - **Data**: Heart disease clinical indicators
-
-## Deployment
-
-This app is deployed on Streamlit Cloud for easy access and sharing.
-
+  
 ## Files Structure
 
 - `app.py` - Main Streamlit application
