@@ -1,0 +1,9 @@
+HEART DISEASE DATASET - PREPROCESSING SUMMARY
+==================================================
+original_shape: (303, 14)
+cleaned_shape: (303, 14)
+features_after_encoding: (303, 13)
+final_features: ['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']
+target_distribution: {0: 164, 1: 139}
+missing_values_handled: 6
+duplicates_removed: 0

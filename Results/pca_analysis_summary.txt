@@ -1,0 +1,70 @@
+HEART DISEASE DATASET - PCA ANALYSIS SUMMARY
+==================================================
+Original number of features: 13
+Selected number of components: 10
+Variance explained: 0.9059 (90.59%)
+Variance threshold used: 90%
+
+Explained variance per component:
+  PC1: 0.2369 (23.69%)
+  PC2: 0.1231 (12.31%)
+  PC3: 0.0953 (9.53%)
+  PC4: 0.0843 (8.43%)
+  PC5: 0.0758 (7.58%)
+  PC6: 0.0679 (6.79%)
+  PC7: 0.0665 (6.65%)
+  PC8: 0.0598 (5.98%)
+  PC9: 0.0529 (5.29%)
+  PC10: 0.0433 (4.33%)
+
+Top 3 features for each component:
+
+PC1:
+  • oldpeak: 0.3970
+  • thalach: 0.3894
+  • slope: 0.3541
+
+PC2:
+  • sex: 0.4522
+  • chol: 0.4385
+  • age: 0.4181
+
+PC3:
+  • fbs: 0.5226
+  • sex: 0.4627
+  • cp: 0.4136
+
+PC4:
+  • slope: 0.5817
+  • oldpeak: 0.4106
+  • ca: 0.3910
+
+PC5:
+  • restecg: 0.6502
+  • chol: 0.3963
+  • age: 0.3705
+
+PC6:
+  • fbs: 0.5861
+  • exang: 0.4392
+  • ca: 0.3755
+
+PC7:
+  • restecg: 0.5817
+  • trestbps: 0.4287
+  • chol: 0.3851
+
+PC8:
+  • trestbps: 0.4504
+  • chol: 0.4064
+  • fbs: 0.3493
+
+PC9:
+  • cp: 0.4411
+  • chol: 0.4112
+  • ca: 0.3830
+
+PC10:
+  • exang: 0.6466
+  • cp: 0.4404
+  • thal: 0.4147

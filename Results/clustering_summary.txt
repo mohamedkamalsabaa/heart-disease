@@ -1,0 +1,32 @@
+HEART DISEASE DATASET - UNSUPERVISED LEARNING SUMMARY
+============================================================
+Dataset: 303 samples, 10 features
+Selected features: ['PC1', 'PC2', 'PC4', 'PC9', 'PC5', 'PC6', 'PC7', 'PC3', 'PC8', 'PC10']
+
+K-MEANS CLUSTERING RESULTS:
+------------------------------
+Optimal K: 2
+Silhouette Score: 0.1923
+Calinski-Harabasz Score: 70.6027
+Adjusted Rand Index: 0.4469
+Cluster Purity: 0.8350
+Cluster Distribution: {np.int32(0): np.int64(115), np.int32(1): np.int64(188)}
+
+HIERARCHICAL CLUSTERING RESULTS:
+-----------------------------------
+Best Linkage Method: average
+Silhouette Score: 0.3736
+Calinski-Harabasz Score: 3.9978
+Adjusted Rand Index: -0.0010
+Cluster Purity: 0.5413
+
+OVERALL COMPARISON:
+--------------------
+Best Overall Method: Hierarchical (average)
+
+All Methods Comparison:
+  K-Means: Silhouette=0.1923, ARI=0.4469
+  Hierarchical (ward): Silhouette=0.1567, ARI=0.2202
+  Hierarchical (complete): Silhouette=0.1784, ARI=0.0179
+  Hierarchical (average): Silhouette=0.3736, ARI=-0.0010
+  Hierarchical (single): Silhouette=0.3736, ARI=-0.0010

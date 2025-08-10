@@ -1,0 +1,8 @@
+{
+    "kmeans": {
+        "optimal_k": 2,
+        "silhouette_score": 0.19227812503516192,
+        "calinski_harabasz_score": 70.60265243684302,
+        "adjusted_rand_index": 0.44692389914228364,
+        "cluster_distribution": {
+            

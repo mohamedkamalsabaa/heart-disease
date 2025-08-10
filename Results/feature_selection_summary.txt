@@ -1,0 +1,26 @@
+HEART DISEASE DATASET - FEATURE SELECTION SUMMARY
+=======================================================
+Original number of features: 10
+Selected number of features: 10
+Reduction: 0.0%
+
+Final Selected Features:
+  1. PC1 (votes: 5/5)
+  2. PC2 (votes: 5/5)
+  3. PC4 (votes: 5/5)
+  4. PC9 (votes: 5/5)
+  5. PC5 (votes: 5/5)
+  6. PC6 (votes: 5/5)
+  7. PC7 (votes: 5/5)
+  8. PC3 (votes: 5/5)
+  9. PC8 (votes: 5/5)
+  10. PC10 (votes: 5/5)
+
+Feature Selection Method Performance:
+  All_Features: 10 features, LR: 0.8316±0.0321, RF: 0.8149±0.0556
+  Top_CHi_Score: 10 features, LR: 0.8316±0.0321, RF: 0.8019±0.0385
+  Top_MI: 10 features, LR: 0.8316±0.0321, RF: 0.8085±0.0345
+  Top_RF: 10 features, LR: 0.8316±0.0321, RF: 0.8184±0.0459
+  RFE_LR: 10 features, LR: 0.8316±0.0321, RF: 0.8149±0.0556
+  RFE_RF: 10 features, LR: 0.8316±0.0321, RF: 0.8149±0.0556
+  Consensus: 10 features, LR: 0.8316±0.0321, RF: 0.8019±0.0385
